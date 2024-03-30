@@ -1,8 +1,8 @@
 {
-  "name": "vehicle-details-api",
+  "name": "Vehicledetails",
   "version": "1.0.0",
   "description": "This API provides details of a Vehicle corresponding to its Number",
-  "main": "getDetails.js",
+  "main": "getdetails.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "request": "^2.86.0"
